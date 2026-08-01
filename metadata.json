@@ -1,0 +1,6 @@
+{
+  "name": "Devil Labs — Interactive 3D Agency Studio",
+  "description": "Interactive 3D agency portfolio and experience for Devil Labs (.dev), featuring spatial object navigation, commercial projects, media kit, digital store, and AI assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
